@@ -1,0 +1,21 @@
+# dirs     #
+############
+/node_modules/*
+
+
+# files    #
+############
+*.gz
+*.csv
+*.log
+*.pgp
+*.sql
+*.tar
+*.tgz
+*.svn*
+*.zip
+*/.htaccess
+.DS_Store
+
+
+
